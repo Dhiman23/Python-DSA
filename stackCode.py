@@ -5,7 +5,7 @@ def push():
     print(stack)
 def pop():
     if not stack:
-        print("stack is empty")
+        print("stack is empty") 
     else:
         e = stack.pop()
         print("removed element:",e)
