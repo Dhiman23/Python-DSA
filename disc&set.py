@@ -10,4 +10,4 @@ print(di[0]) # indexing in di will no work bcus it is unordered
 di = {[1,2]:"sajal"}
 print (di)
 di = {2:["sajal"]}
-print(di)
+print(di) 
